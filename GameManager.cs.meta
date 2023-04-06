@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 325d0f6494b78ea49bc1cadb1471b744
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - silverCoinText: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  - defeatScreen: {fileID: 919132149155446097, guid: 3cade4a2ac16d604bac1c57af2daed84, type: 3}
+  - audioSource: {instanceID: 0}
+  - enemyDeathSound: {fileID: 8300000, guid: 54e61e788f69d1445b049349fde73ff9, type: 3}
+  - coinEarnedSound: {fileID: 8300000, guid: 54e61e788f69d1445b049349fde73ff9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
